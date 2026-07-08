@@ -7,3 +7,6 @@ My custom MCP tools and integrations
 - **Node red:** Read, upload and reload a node-red flows
 - **Glances:** Check a glances monitored system's data
 - **SSH:** SSH into a server and run commands
+
+## License
+MIT
