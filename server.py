@@ -97,4 +97,4 @@ mcp.mount(ntfy)
 mcp.mount(glances)
 mcp.mount(ssh)
 
-mcp.run(transport="streamable-http", host="0.0.0.0", port=8121)
+mcp.run(transport="streamable-http", host="0.0.0.0", port=8121, host_origin_protection=False)
